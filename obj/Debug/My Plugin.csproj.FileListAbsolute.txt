@@ -31,3 +31,15 @@ C:\Users\ANKIT\source\repos\MYCRM\My Plugin\obj\Debug\My Plugin.csproj.CoreCompi
 C:\Users\ANKIT\source\repos\MYCRM\My Plugin\obj\Debug\My Plugin.csproj.Up2Date
 C:\Users\ANKIT\source\repos\MYCRM\My Plugin\obj\Debug\My Plugin.dll
 C:\Users\ANKIT\source\repos\MYCRM\My Plugin\obj\Debug\My Plugin.pdb
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\My Plugin.dll.config
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\DotNetEnv.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Sprache.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\System.IO.Compression.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\System.Net.Http.dll
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ANKIT\source\repos\MYCRM\My Plugin\bin\Debug\Sprache.xml
